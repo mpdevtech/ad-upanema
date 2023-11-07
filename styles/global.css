@@ -1,0 +1,10 @@
+:root {
+    --bg-primary: #F6F6F6;
+    --text-primary:#9A9A9A;
+    --text-secondary: #006B9B;
+    --text-dark: #4B4B4B;
+}
+
+.logo-adu {
+    width: 75px;
+}
